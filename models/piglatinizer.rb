@@ -7,5 +7,4 @@ class PigLatinizer
     @words = words.downcase
   end
 
-  binding.pry
 end
