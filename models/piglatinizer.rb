@@ -1,3 +1,5 @@
+require 'pry'
+
 class PigLatinizer
   attr_accessor :words
 
@@ -5,4 +7,5 @@ class PigLatinizer
     @words = words.downcase
   end
 
+  binding.pry
 end
