@@ -2,7 +2,8 @@ require 'pry'
 
 class PigLatinizer
 
-  def initialize
+  def piglatinize(input_word)
+    input_word
   end
-
+  
 end
