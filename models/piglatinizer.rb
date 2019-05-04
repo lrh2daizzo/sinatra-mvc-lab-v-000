@@ -10,4 +10,7 @@ class PigLatinizer
     !char.match(/[aAeEiIoOuU])
   end
 
+  def piglatinize(word)
+  end
+
 end
