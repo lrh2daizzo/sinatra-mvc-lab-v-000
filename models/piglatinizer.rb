@@ -5,10 +5,4 @@ class PigLatinizer
     @words = words.downcase
   end
 
-
-
-
-
-
-
 end
