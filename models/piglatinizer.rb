@@ -5,6 +5,7 @@ class PigLatinizer
 
   def initialize(words)
     @words = words.downcase
+    binding.pry
   end
-binding.pry
+
 end
